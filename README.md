@@ -1,2 +1,3 @@
 # vue-lottie-wrapper
-Created with CodeSandbox
+
+A Vue wrapper component to build beautiful Lottie animations
