@@ -1,6 +1,6 @@
 <template>
   <div class="lottie-wrapper">
-    <lottie-player 
+    <lottie-player
         ref="lottieRef" 
         :id="id" 
         :src="src" 
